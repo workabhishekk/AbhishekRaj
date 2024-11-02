@@ -1,5 +1,5 @@
 # AbhishekRaj
-- This is the final project od 2nd module of metacrafters Etherium proof
+- This is the final project of 2nd module of metacrafters Etherium proof
 
 # metacrafters_solidity_project
 - This is final project of 2nd module of metacrafters Etherium proof
